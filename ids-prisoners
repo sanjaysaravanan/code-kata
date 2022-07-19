@@ -1,0 +1,12 @@
+Logic
+
+Step 1:
+  Get N ---> length of prisoners, prisonerIds ---> array of ids
+
+Step 2:
+  occurence
+
+
+rvdsurjith@gmail.com  --- od,even
+danial  --> quadrant
+sivaraj2siva@gmail.com  ---> arr = [1, 1, 1, 2, 4, 5] output: [1, 2, 4, 5]
